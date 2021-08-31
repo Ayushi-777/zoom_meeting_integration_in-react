@@ -66,7 +66,7 @@ app.post("/meeting", (req, res) => {
       };
       res.status(200).json(dataRes);
 
-      // res.send("create meeting result: " + JSON.stringify(response));
+     res.send("create meeting result: " + JSON.stringify(response));
     })
     .catch(function (err) {
       // API call failed...

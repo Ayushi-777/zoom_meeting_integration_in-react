@@ -68,7 +68,7 @@ function App() {
                 </button>
               </div>
             </div>
-            {/* <div className="column" style={{ float: "right" }}>
+            {<div className="column" style={{ float: "right" }}>
               <img
                 src="\meeting.jpg"
                 height="330px"
@@ -79,7 +79,7 @@ function App() {
                 }}
                 alt=""
               />
-            </div> */}
+            </div>}
           </div>
         </div>
       </header>

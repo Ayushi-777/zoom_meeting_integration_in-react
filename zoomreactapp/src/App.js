@@ -68,18 +68,18 @@ function App() {
                 </button>
               </div>
             </div>
-            {<div className="column" style={{ float: "right" }}>
-              <img
-                src="\meeting.jpg"
-                height="330px"
-                width="400px"
-                style={{
-                  margin: "10px",
-                  borderRadius: "50px",
-                }}
-                alt=""
-              />
-            </div>}
+//             {<div className="column" style={{ float: "right" }}>
+//               <img
+//                 src="\meeting.jpg"
+//                 height="330px"
+//                 width="400px"
+//                 style={{
+//                   margin: "10px",
+//                   borderRadius: "50px",
+//                 }}
+//                 alt=""
+//               />
+//             </div>}
           </div>
         </div>
       </header>
